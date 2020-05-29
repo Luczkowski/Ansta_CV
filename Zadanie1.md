@@ -1,4 +1,4 @@
-#Zadanie 1
+# Zadanie 1
     def get_postcodes(start = "79-990", end = "80-155"):
 
         codes_list = []
