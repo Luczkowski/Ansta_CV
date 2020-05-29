@@ -1,5 +1,7 @@
 # Zadanie 3
 
+    from decimal import *
+    
     def decimal_list():
 
         x = 2.0
